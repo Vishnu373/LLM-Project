@@ -1,0 +1,15 @@
+# Ignore virtual environment
+proj/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+.env
+
+# Ignore IDE/editor specific files (VS Code)
+.vscode/
+
+# Ignore system-specific files (macOS, Windows, etc.)
+Thumbs.db   # Windows specific
